@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "40780948560",
+    "project_id": "controle-vagas",
+    "storage_bucket": "controle-vagas.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40780948560:android:6aeacc0f860e5080a49d55",
+        "android_client_info": {
+          "package_name": "com.example.vagas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC4HNlddH_IXfex9HaUwJPtJ1F-NDGV2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40780948560:android:4384c944e3c74fb7a49d55",
+        "android_client_info": {
+          "package_name": "com.vagas.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC4HNlddH_IXfex9HaUwJPtJ1F-NDGV2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
